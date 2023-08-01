@@ -1,0 +1,1 @@
+docker run --rm -t -i -v C:\Users\Pchemut\Videos\data:/usr/local/tomcat/temp/uaa/ scg-demo-uaa:latest uaa-test
